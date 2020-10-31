@@ -1,4 +1,5 @@
 T = int(input())
+
 for test_case in range(T):
     G = int(input())
     pile = []
