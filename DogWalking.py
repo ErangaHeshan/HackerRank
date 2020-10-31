@@ -1,5 +1,6 @@
 T = int(input())
-for test_cases in range(T):
+
+for test_case in range(T):
     N, K = [int(x) for x in input().split()]
     size_array = []
     for i in range(N):
